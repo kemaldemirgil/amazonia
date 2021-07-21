@@ -16,7 +16,7 @@ Amazonia is an e-commerce application where users are able to view, add to cart 
 ## 📓 Usage:
 - Please select the items you desire to proceed to the checkout,
 - Create and account or sign-in to continue to the payment page,
-- Continue your payment on `Stripe Checkoput`
+- Continue your payment on `Stripe Checkout`
 
 > This is just a test, nothing actually charging the account.
 
@@ -78,7 +78,7 @@ I've also used `concurrently` on the main directory to write the following scrip
 
 ## 📊 Notes:
 
-> Redux is definitely great on larger size applications but, I would still consider using the `Context API` since it doesn't envolve installing another dependency. I guess it all depends on how you would like build the application. Besides that, I'm glad all the homeworks are done for the `Boot camp` now. After the final project, I would love to start working on personal projects using all these tools and possibly other languages.
+> Redux is definitely great on larger size applications but, I would still consider using the `Context API` since it doesn't involve installing another dependency. I guess it all depends on how you would like to build the application. Besides that, I'm glad all the assignments are done for the `Boot camp` now. After the final project, I would love to start working on personal projects using all these tools and possibly other languages.
 
 <h3 align = "center">Connect with me!</h3>
 <p align="center">
@@ -87,7 +87,7 @@ I've also used `concurrently` on the main directory to write the following scrip
 </p>
 
 ## 📮 Issues:
-If any issues or bugs are present, please submit a ticket to the `Issues` tab or contact me through kemal.demirgil@hotmail.com and I will get back to it as soon as possible.
+If any issues or bugs are present, please submit a ticket to the `Issues` tab or contact me through kemal.demirgil@hotmail.com, and I will get back to it as soon as possible.
 
 ## ©️ License:
 Copyright © Kemal Demirgil. All rights reserved.

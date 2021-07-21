@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/amazoniaDB', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/amazoniaDBatlas', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
